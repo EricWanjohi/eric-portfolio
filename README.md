@@ -4,7 +4,7 @@
 
 This repo contains an easy-to-customize personal dev portfolio template that was created with Sass and JavaScript. It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static and comes production ready if you just want to add your information and go. Alternatively, you can edit styles, colours, and scripts fairly easily. The site was built as modular as possible to make it easy to shift around styles and content.
 
-<!-- To view a live demo, [click here](https://EricWanjohi.github.io/devportfolio/). -->
+<!-- To view a live demo, [click here](https://ericwanjohi.github.io/eric-portfolio/). -->
 
 ## Features
 
@@ -342,5 +342,4 @@ Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
 
 Created with :love: by http://EricWanjohi.github.com :+1 :rocket: :+1
 =======
-# eric-portfolio
 >>>>>>> f308199be5195ba1b48dbf6a76bb6bdf40a75fcc

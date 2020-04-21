@@ -1,0 +1,132 @@
+.header {
+  color: #009999;
+}
+
+body {
+  background-color: white;
+  background-image: url("../Images/smooth.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.col-md-3 {
+  height: 50%;
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff;
+}
+
+.col-md-4 {
+  height: 50%;
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff;
+}
+
+.navbar navbar-default {
+  border-radius: 0%;
+}
+
+.container-fluid {
+  border-radius: 0%;
+  margin-top: 0px;
+}
+
+#img {
+  border-radius: 6px;
+}
+
+.headers {
+  text-align: center;
+  color: black;
+  font-family: monospace;
+  text-decoration: none;
+  padding-top: ;
+  padding-bottom: ;
+}
+
+.header {
+  text-align: center;
+  color: black;
+  font-family: monospace;
+  text-decoration: none;
+  padding-top: ;
+  padding-bottom: ;
+}
+
+.navbar {
+  background-color: black;
+  color: white;
+  height: 1%;
+}
+
+#link {
+  background-color: white;
+  color: #f1529a;
+  width: 150px;
+  height: 35px;
+  border-radius: 4px;
+  border-color: #009999;
+}
+
+#top {
+  padding-top: 5%;
+}
+
+#portfolio {
+  padding-bottom: 2%;
+}
+
+.row {
+  padding-bottom: 1%;
+}
+
+#pages {
+  background-color: white;
+}
+
+#About {
+  color: black;
+  background-image: url("../Images/cool.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#about {
+  color: black;
+}
+
+.big {
+  font-size: 16px;
+  font-family: cursive;
+  color: blue;
+}
+
+.img-responsive {
+  align-self: center;
+  padding-left: 30%;
+  padding-right: 30%:
+}
+
+.ride {
+  color: black;
+  font-size: 18px;
+}
+
+#last {
+  background-color: white;
+}
+
+#skills {
+  text-align: left;
+}
+
+#footer {
+  background-color: black;
+  color: white;
+}

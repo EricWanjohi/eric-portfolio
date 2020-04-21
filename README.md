@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Dev Portfolio
 
@@ -340,3 +341,6 @@ Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
 ## Author Comments
 
 Created with :love: by http://EricWanjohi.github.com :+1 :rocket: :+1
+=======
+# eric-portfolio
+>>>>>>> f308199be5195ba1b48dbf6a76bb6bdf40a75fcc

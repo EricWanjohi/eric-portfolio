@@ -88,6 +88,10 @@ body {
   background-color: white;
 }
 
+#projects{
+  background-color: #ffffffec;
+}
+
 #About {
   color: black;
   background-image: url("../Images/cool.jpeg");

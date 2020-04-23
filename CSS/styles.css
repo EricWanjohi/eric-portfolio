@@ -10,6 +10,10 @@ body {
   color: white;
 }
 
+.full-body {
+  width: 100%;
+}
+
 .col-md-3 {
   height: 50%;
   color: black;

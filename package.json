@@ -14,7 +14,7 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "Eric Wanjohi",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^4.0.2",

@@ -227,7 +227,7 @@ margin-bottom: 40px; margin-top: -20px}
     .container{max-width: 1320px;margin: 0px;padding: 10px}
 	#skills{background: #eee; color: #212121}
 	.skill-class{margin-bottom: 20px}
-    .ul-skills li{color: #fff;background: #fff; font-family: fantasy}
+    .ul-skills li{color: #fff;background: #fff; font-family: 'Lato', sans-serif}
     #skills-li{color: #fff;background: #fff}
     #about{width: 1380px}
     #about-content{width: 1380px}

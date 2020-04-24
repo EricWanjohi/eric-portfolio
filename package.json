@@ -14,24 +14,24 @@
     "coding",
     "dev"
   ],
-  "author": "Eric Wanjohi",
+  "author": "Ryan Fitzgerald",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "4.0.2",
-    "gulp-autoprefixer": "3.1.1",
-    "gulp-plumber": "1.1.0",
-    "gulp-rename": "1.2.2",
-    "gulp-sass": "3.1.0",
-    "gulp-uglify": "3.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
     "gulp-wait": "0.0.2"
   },
   "dependencies": {
-    "bootstrap": "3.3.7",
-    "bower": "1.8.0",
-    "emberfire": "2.0.7",
-    "g": "2.0.1",
-    "gulp-concat": "2.6.1",
-    "netlify-cli": "2.19.2",
-    "yelp-api-v3": "1.5.0"
+    "bootstrap": "^3.3.7",
+    "bower": "^1.8.0",
+    "emberfire": "^2.0.7",
+    "g": "^2.0.1",
+    "gulp-concat": "^2.6.1",
+    "netlify-cli": "^2.19.2",
+    "yelp-api-v3": "^1.5.0"
   }
 }

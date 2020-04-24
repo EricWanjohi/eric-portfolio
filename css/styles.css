@@ -58,7 +58,7 @@
 #stackOverflowIcon:hover{color: #FFA000}
 #linkedIn:hover{color: #3F51B5}
 #twitterIcon:hover{color: #03A9F4}
-#googlePlusIcon:hover{color: #F44336}
+#email-me:hover{color: tomato}
 #Framework{margin-top:10px;}
 .TodoList-image{background-image: "images/lakeside.jpg";max-height: 350px;max-width: 350px;}
 #about-photo{background:url("../images/me1.jpg");background-size: cover;background-repeat: no-repeat;background-position: center;border-radius: 360px;}
@@ -98,7 +98,7 @@ footer{padding:10px 0}
 .top i{color:#74808a}
 .social{text-align:right}
 .social ul{margin:5px 0 0 0;padding:0}
-.social li{display:inline-block;font-size:1.25em;list-style:none; color: #;}
+.social li{display:inline-block;font-size:1.25em;list-style:none; color: #ffffff;}
 .social a{display:block;color:#000000;padding:10px;}
 .btn-rounded-blue{background: rgba(33,120,180, 0.8); display:inline-block;color:#ffffff;padding:5px 10px; border:1px solid #ffffff;border-radius:0px;transition:.3s ease all; align-self: center;
 margin-bottom: 40px; margin-top: -20px}

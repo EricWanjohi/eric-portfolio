@@ -135,4 +135,13 @@ body {
   color: white;
 }
 
+.email-me{
+  width: 10px;
+  height: 10px;
+}
+
+#contacts{
+  width: 100%;
+  text-align: center;
+}
 

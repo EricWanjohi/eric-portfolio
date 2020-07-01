@@ -191,6 +191,7 @@ margin-bottom: 40px; margin-top: -20px}
 	#experience-timeline{margin:0px;position:relative;max-width:80%;}
 	#experience-timeline:before{display: none}
 	#experience-timeline:after{display: none}
+	#experience{width: 100%;padding:10px;}
 	/* .vtimeline-point{position:relative;display:inline-block;margin-bottom:30px; margin-right: 2px}
 	.vtimeline-icon{position:relative;color:#fff;margin-left:0px}
 	.vtimeline-icon i{display:block;font-size:2em;margin-left:0px} */
